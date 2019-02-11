@@ -1,0 +1,212 @@
+{
+  "version": "0.1",
+  "catchAll": {
+    "onReceive": [],
+    "next": [
+      {
+        "condition": "event.nlu.intent.is('forget')",
+        "node": "forget-my-name"
+      }
+    ]
+  },
+  "startNode": "entry",
+  "nodes": [
+    {
+      "id": "7099199f90",
+      "name": "helpful",
+      "next": [
+        {
+          "condition": "event.nlu.intent.is('timing')",
+          "node": "timing"
+        },
+        {
+          "condition": "event.nlu.intent.is('address')",
+          "node": "address"
+        },
+        {
+          "condition": "event.nlu.intent.is('documents')",
+          "node": "documents"
+        },
+        {
+          "condition": "true",
+          "node": "otherwise"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-AY5SSW",
+        "resetUserVariable {\"name\":\"null\"}"
+      ],
+      "onReceive": []
+    },
+    {
+      "id": "c69ee2d71f",
+      "name": "not-helpful",
+      "next": [
+        {
+          "condition": "event.nlu.intent.is('timing')",
+          "node": "timing"
+        },
+        {
+          "condition": "event.nlu.intent.is('address')",
+          "node": "address"
+        },
+        {
+          "condition": "event.nlu.intent.is('documents')",
+          "node": "documents"
+        },
+        {
+          "condition": "true",
+          "node": "otherwise"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-bFsOmf",
+        "trackMisunderstood {}",
+        "resetUserVariable {\"name\":\"null\"}"
+      ],
+      "onReceive": []
+    },
+    {
+      "id": "a54a82eb7c",
+      "name": "entry",
+      "onEnter": [
+        "trackNewConversation {}",
+        "say #!builtin_text-ra5xFm"
+      ],
+      "onReceive": [],
+      "next": [
+        {
+          "condition": "event.nlu.intent.is('address')",
+          "node": "address"
+        },
+        {
+          "condition": "event.nlu.intent.is('timing')",
+          "node": "timing"
+        },
+        {
+          "condition": "event.nlu.intent.is('documents')",
+          "node": "documents"
+        },
+        {
+          "condition": "true",
+          "node": "otherwise"
+        }
+      ]
+    },
+    {
+      "id": "d29fc6b771",
+      "name": "address",
+      "next": [
+        {
+          "condition": "state.$r==='Yes'",
+          "node": "helpful"
+        },
+        {
+          "condition": "state.$r==='No'",
+          "node": "not-helpful"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_single-choice-zyi2zd"
+      ],
+      "onReceive": [
+        "setUserVariable {\"name\":\"nickname\",\"value\":\"{{event.text}}\",\"expiry\":\"never\"}",
+        "getUserVariable {\"name\":\"nickname\",\"output\":\"$r\"}"
+      ]
+    },
+    {
+      "id": "adf610a25d",
+      "name": "otherwise",
+      "next": [
+        {
+          "condition": "event.nlu.intent.is(timing)",
+          "node": "timing"
+        },
+        {
+          "condition": "event.nlu.intent.is('documents')",
+          "node": "documents"
+        },
+        {
+          "condition": "event.nlu.intent.is('address')",
+          "node": "address"
+        },
+        {
+          "condition": "true",
+          "node": "otherwise2"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_single-choice-svQMLT"
+      ],
+      "onReceive": []
+    },
+    {
+      "id": "357ba21a5c",
+      "name": "documents",
+      "next": [
+        {
+          "condition": "state.$r==='Yes'",
+          "node": "helpful"
+        },
+        {
+          "condition": "state.$r==='No'",
+          "node": "not-helpful"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_single-choice-qSwome"
+      ],
+      "onReceive": [
+        "setUserVariable {\"name\":\"nickname\",\"value\":\"{{event.text}}\",\"expiry\":\"never\"}",
+        "getUserVariable {\"name\":\"nickname\",\"output\":\"$r\"}"
+      ]
+    },
+    {
+      "id": "94be3d3778",
+      "name": "timing",
+      "next": [
+        {
+          "condition": "state.$r==='Yes'",
+          "node": "helpful"
+        },
+        {
+          "condition": "state.$r==='No'",
+          "node": "not-helpful"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_single-choice-RWnZAt"
+      ],
+      "onReceive": [
+        "setUserVariable {\"name\":\"nickname\",\"value\":\"{{event.text}}\",\"expiry\":\"never\"}",
+        "getUserVariable {\"name\":\"nickname\",\"output\":\"$r\"}"
+      ]
+    },
+    {
+      "id": "c1fc9c97c1",
+      "name": "otherwise2",
+      "next": [
+        {
+          "condition": "event.nlu.intent.is('timing')",
+          "node": "timing"
+        },
+        {
+          "condition": "event.nlu.intent.is('address')",
+          "node": "address"
+        },
+        {
+          "condition": "event.nlu.intent.is('documents')",
+          "node": "documents"
+        },
+        {
+          "condition": "true",
+          "node": "otherwise"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_action-button-1J9xU5"
+      ],
+      "onReceive": []
+    }
+  ]
+}
