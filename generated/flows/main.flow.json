@@ -119,7 +119,7 @@
       "name": "otherwise",
       "next": [
         {
-          "condition": "event.nlu.intent.is(timing)",
+          "condition": "event.nlu.intent.is('timing')",
           "node": "timing"
         },
         {
@@ -136,7 +136,7 @@
         }
       ],
       "onEnter": [
-        "say #!builtin_single-choice-svQMLT"
+        "say #!builtin_text-Ae511d"
       ],
       "onReceive": []
     },
