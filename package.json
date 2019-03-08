@@ -9,10 +9,11 @@
   "dependencies": {
     "@botpress/analytics": "^10.51.10",
     "@botpress/audience": "10.51.10",
-    "@botpress/builtins": "10.51.10",
+    "@botpress/builtins": "^10.51.10",
     "@botpress/channel-web": "10.51.10",
     "@botpress/hitl": "10.51.10",
     "@botpress/nlu": "10.51.10",
+    "@botpress/qna": "^10.51.10",
     "@botpress/skill-choice": "10.51.10",
     "botpress": "10.51.10",
     "jsdoc-api": "^4.0.3",

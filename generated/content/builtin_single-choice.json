@@ -78,5 +78,24 @@
     },
     "createdBy": "admin",
     "createdOn": "2019-02-11T13:57:53.590Z"
+  },
+  {
+    "id": "builtin_single-choice-RCEsc2",
+    "formData": {
+      "text": "Was this answer helpful?",
+      "choices": [
+        {
+          "title": "Yes",
+          "value": "1"
+        },
+        {
+          "title": "No",
+          "value": "-1"
+        }
+      ],
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-03-06T15:59:40.020Z"
   }
 ]

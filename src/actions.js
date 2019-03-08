@@ -11,6 +11,10 @@ module.exports = {
     await bp.analytics.custom.increment(`${'conversation'}~${user.id}`)
   },
   
+  trackUnderstood: async (state, { bp, user }) => {
+    await bp.analytics.custom.increment(`${'understood'}~${user.id}`)
+  },
+  
   trackMisunderstood: async (state, { bp, user }) => {
     await bp.analytics.custom.increment(`${'misunderstood'}~${user.id}`)
   }

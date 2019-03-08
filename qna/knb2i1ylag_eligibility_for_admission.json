@@ -1,0 +1,14 @@
+{
+  "id": "knb2i1ylag_eligibility_for_admission",
+  "data": {
+    "questions": [
+      "Eligibility for admission"
+    ],
+    "answer": "PCM>=150\nJEE score positive",
+    "redirectFlow": "main.flow.json",
+    "redirectNode": "dummy",
+    "action": "text_redirect",
+    "category": "",
+    "enabled": true
+  }
+}

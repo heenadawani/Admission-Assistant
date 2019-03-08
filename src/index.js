@@ -51,6 +51,7 @@ module.exports = async bp => {
   bp.hear({ type: /bp_dialog_timeout|text|message|quick_reply/i }, (event, next) => {
     bp.dialogEngine.processMessage(event.sessionId || event.user.id, event).then()
   })
+  
 }
 
 async function registerBuiltin(bp) {

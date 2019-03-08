@@ -1,0 +1,13 @@
+{
+  "id": "nohgxaj32b_what_are_the_timings_of_admission",
+  "data": {
+    "questions": [
+      "Branches in vesit"
+    ],
+    "action": "text_redirect",
+    "answer": "INFT\nINST\nCMPN\nEXTC\nETRX",
+    "redirectFlow": "main.flow.json",
+    "redirectNode": "dummy",
+    "enabled": true
+  }
+}

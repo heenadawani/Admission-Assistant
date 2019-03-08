@@ -15,7 +15,7 @@
   {
     "id": "builtin_text-AY5SSW",
     "formData": {
-      "text": "{{state.$r}} \nThe answer was helpful.",
+      "text": "{{state.$r}} \nThe eligibility was helpful.",
       "typing": true
     },
     "createdBy": "admin",
@@ -24,7 +24,8 @@
   {
     "id": "builtin_text-bFsOmf",
     "formData": {
-      "text": "{{state.$r}} \nI will try to improve",
+      "text": "{{state.$r}} \nI will try to improve eligibility",
+      "variations": [],
       "typing": true
     },
     "createdBy": "admin",
@@ -85,12 +86,48 @@
     "createdOn": "2019-02-11T13:54:53.626Z"
   },
   {
-    "id": "builtin_text-Ae511d",
+    "id": "builtin_text-JPXTht",
     "formData": {
-      "text": "Sorry, I am unable to answer your query. \nDo you want to know something about\nTiming for admission\nWhere is VESIT?\nDocuments required for admission",
+      "text": "Sorry, I am unable to answer your query. \nDo you want to know something about\nWhere is VESIT?\nTiming for admission\nDocuments needed for admission",
       "typing": true
     },
     "createdBy": "admin",
-    "createdOn": "2019-02-11T16:57:35.555Z"
+    "createdOn": "2019-02-11T17:22:33.941Z"
+  },
+  {
+    "id": "builtin_text-8cAs3z",
+    "formData": {
+      "text": "https://vesitadmissions.ves.ac.in/frequently-asked-questions-faq/",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-02-12T04:09:57.927Z"
+  },
+  {
+    "id": "builtin_text-Mu6xzq",
+    "formData": {
+      "text": "{{state.$s}}\nI will try to improve branches",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-03-06T18:29:18.801Z"
+  },
+  {
+    "id": "builtin_text-Zi5AkO",
+    "formData": {
+      "text": "{{state.$r}}\nThe answer was helpful",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-03-08T04:49:29.485Z"
+  },
+  {
+    "id": "builtin_text-F6rYk7",
+    "formData": {
+      "text": "{{state.$r}}\nI will try to improve",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-03-08T04:51:10.621Z"
   }
 ]
