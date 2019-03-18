@@ -1,0 +1,13 @@
+{
+  "id": "weneiumaja_offline_admission",
+  "data": {
+    "questions": [
+      "Offline admission"
+    ],
+    "action": "text",
+    "answer": "There is no offline admission process. The admission process is online through DTE website.",
+    "redirectFlow": "",
+    "redirectNode": "",
+    "enabled": true
+  }
+}

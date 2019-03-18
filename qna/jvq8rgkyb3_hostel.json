@@ -1,0 +1,13 @@
+{
+  "id": "jvq8rgkyb3_hostel",
+  "data": {
+    "questions": [
+      "Hostel"
+    ],
+    "action": "text",
+    "answer": "V.E.S.I.T. has in-built hostel facility for both boys & girls, but limited seats available.\nThe hostel seats are allotted on first come first serve basis, after the admission procedure of the students has been completed.\nFor the fees structure please refer the website https://ves.ac.in/facilities/hostels/",
+    "redirectFlow": "",
+    "redirectNode": "",
+    "enabled": true
+  }
+}

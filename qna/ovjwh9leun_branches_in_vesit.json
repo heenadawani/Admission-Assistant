@@ -1,0 +1,13 @@
+{
+  "id": "ovjwh9leun_branches_in_vesit",
+  "data": {
+    "questions": [
+      "Branches in vesit"
+    ],
+    "action": "text",
+    "answer": "Electronics Engineering\nComputer Engineering\nInstrumentation Engineering\nElectronics and Telecommunication Engineering\nInformation Technology Engineering\n",
+    "redirectFlow": "",
+    "redirectNode": "",
+    "enabled": true
+  }
+}
