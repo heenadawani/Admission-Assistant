@@ -1,0 +1,13 @@
+{
+  "id": "3uisyyjgbn_attestation",
+  "data": {
+    "questions": [
+      "Attestation"
+    ],
+    "action": "text",
+    "answer": "Test: Attestation",
+    "redirectFlow": "",
+    "redirectNode": "",
+    "enabled": true
+  }
+}

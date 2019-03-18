@@ -1,0 +1,13 @@
+{
+  "id": "zhhg8phsy4_timeline",
+  "data": {
+    "questions": [
+      "Timeline"
+    ],
+    "action": "text",
+    "answer": "Test: Show Admission timeline",
+    "redirectFlow": "",
+    "redirectNode": "",
+    "enabled": true
+  }
+}

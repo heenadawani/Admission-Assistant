@@ -1,0 +1,13 @@
+{
+  "id": "ijkhv502i6_start_up",
+  "data": {
+    "questions": [
+      "Start up"
+    ],
+    "action": "text",
+    "answer": "Test: show start up growth opportunities",
+    "redirectFlow": "",
+    "redirectNode": "",
+    "enabled": true
+  }
+}

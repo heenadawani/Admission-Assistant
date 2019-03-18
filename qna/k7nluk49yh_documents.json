@@ -1,11 +1,11 @@
 {
-  "id": "x1dreo7v3z_eligibility_for_admission",
+  "id": "k7nluk49yh_documents",
   "data": {
     "questions": [
-      "Eligibility for admission"
+      "Documents"
     ],
     "action": "text",
-    "answer": "PCM>=150\n JEE score positive",
+    "answer": "Test: Display lit of documents along with number of photocopies",
     "redirectFlow": "",
     "redirectNode": "",
     "enabled": true

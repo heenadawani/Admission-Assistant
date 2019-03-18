@@ -1,0 +1,13 @@
+{
+  "id": "f0z1952mja_faculty",
+  "data": {
+    "questions": [
+      "Faculty"
+    ],
+    "action": "text",
+    "answer": "Test: faculty",
+    "redirectFlow": "",
+    "redirectNode": "",
+    "enabled": true
+  }
+}

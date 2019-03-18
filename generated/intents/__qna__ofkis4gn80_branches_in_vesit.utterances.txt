@@ -1,0 +1,6 @@
+streams 
+number of students in one class
+strength of branch
+strength of class
+courses
+Branches 

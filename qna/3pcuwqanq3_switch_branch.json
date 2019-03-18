@@ -1,0 +1,13 @@
+{
+  "id": "3pcuwqanq3_switch_branch",
+  "data": {
+    "questions": [
+      "switch branch"
+    ],
+    "action": "text",
+    "answer": "You can switch your branch after first year, depending on the availability of seats and merit.",
+    "redirectFlow": "",
+    "redirectNode": "",
+    "enabled": true
+  }
+}

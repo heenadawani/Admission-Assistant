@@ -1,0 +1,13 @@
+{
+  "id": "ofkis4gn80_branches_in_vesit",
+  "data": {
+    "questions": [
+      "Branches in vesit"
+    ],
+    "action": "text",
+    "answer": "Electronics Engineering (Seats - 120)\nComputer Engineering (Seats - 120)\nInstrumentation Engineering (Seats - 60)\nElectronics and Telecommunication Engineering (Seats - 120)\nInformation Technology Engineering (Seats - 60)\n",
+    "redirectFlow": "",
+    "redirectNode": "",
+    "enabled": true
+  }
+}

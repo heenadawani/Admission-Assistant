@@ -1,0 +1,13 @@
+{
+  "id": "kcsnh7y2rh_eligibility_for_admission",
+  "data": {
+    "questions": [
+      "Eligibility for admission"
+    ],
+    "action": "text",
+    "answer": "PCM>=150\n JEE score positive",
+    "redirectFlow": "",
+    "redirectNode": "",
+    "enabled": true
+  }
+}
