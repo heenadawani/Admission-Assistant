@@ -1,0 +1,13 @@
+{
+  "id": "bvj88avyln_cutoff",
+  "data": {
+    "questions": [
+      "cutoff"
+    ],
+    "action": "text",
+    "answer": "Test: Display cutoff",
+    "redirectFlow": "",
+    "redirectNode": "",
+    "enabled": true
+  }
+}

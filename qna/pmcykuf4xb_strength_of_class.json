@@ -1,0 +1,13 @@
+{
+  "id": "pmcykuf4xb_strength_of_class",
+  "data": {
+    "questions": [
+      "strength of class"
+    ],
+    "action": "text",
+    "answer": "Electronics Engineering (Seats - 120)\nComputer Engineering (Seats - 120)\nInstrumentation Engineering (Seats - 60)\nElectronics and Telecommunication Engineering (Seats - 120)\nInformation Technology Engineering (Seats - 60)\n",
+    "redirectFlow": "",
+    "redirectNode": "",
+    "enabled": true
+  }
+}

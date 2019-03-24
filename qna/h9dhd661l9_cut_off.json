@@ -1,0 +1,13 @@
+{
+  "id": "h9dhd661l9_cut_off",
+  "data": {
+    "questions": [
+      "Cut-off"
+    ],
+    "action": "text",
+    "answer": "Test: Display cutoff",
+    "redirectFlow": "",
+    "redirectNode": "",
+    "enabled": true
+  }
+}

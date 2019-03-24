@@ -1,0 +1,13 @@
+{
+  "id": "rqrina6xr7_about_campus",
+  "data": {
+    "questions": [
+      "About Campus"
+    ],
+    "action": "text",
+    "answer": "VESIT Campus has the following facilities:\nOpen access library, Labs with latest technologies, Drawing hall, Classrooms, Seminar hall, Amphi theatre.\nhttps://ves.ac.in/vesit/about-us/facilities/ ",
+    "redirectFlow": "",
+    "redirectNode": "",
+    "enabled": true
+  }
+}

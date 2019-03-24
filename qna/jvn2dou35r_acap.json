@@ -1,0 +1,13 @@
+{
+  "id": "jvn2dou35r_acap",
+  "data": {
+    "questions": [
+      "ACAP"
+    ],
+    "action": "text",
+    "answer": "Test: ACAP",
+    "redirectFlow": "",
+    "redirectNode": "",
+    "enabled": true
+  }
+}

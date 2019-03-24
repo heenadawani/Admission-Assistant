@@ -1,0 +1,13 @@
+{
+  "id": "v56y4nv0z7_start_date",
+  "data": {
+    "questions": [
+      "start date"
+    ],
+    "action": "text",
+    "answer": "Test: Show Admission timeline",
+    "redirectFlow": "",
+    "redirectNode": "",
+    "enabled": true
+  }
+}

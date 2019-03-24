@@ -1,0 +1,14 @@
+{
+  "id": "fsq40yyhy1_teachers",
+  "data": {
+    "questions": [
+      "teachers"
+    ],
+    "answer": "Test: faculty",
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "category": "",
+    "enabled": true
+  }
+}

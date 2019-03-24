@@ -1,0 +1,13 @@
+{
+  "id": "l84pbzm5f4_strength_of_branch",
+  "data": {
+    "questions": [
+      "strength of branch"
+    ],
+    "action": "text",
+    "answer": "Electronics Engineering (Seats - 120)\nComputer Engineering (Seats - 120)\nInstrumentation Engineering (Seats - 60)\nElectronics and Telecommunication Engineering (Seats - 120)\nInformation Technology Engineering (Seats - 60)\n",
+    "redirectFlow": "",
+    "redirectNode": "",
+    "enabled": true
+  }
+}

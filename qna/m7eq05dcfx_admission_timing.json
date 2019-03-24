@@ -1,0 +1,13 @@
+{
+  "id": "m7eq05dcfx_admission_timing",
+  "data": {
+    "questions": [
+      "Admission timing"
+    ],
+    "action": "text",
+    "answer": "Test: admission timings",
+    "redirectFlow": "",
+    "redirectNode": "",
+    "enabled": true
+  }
+}

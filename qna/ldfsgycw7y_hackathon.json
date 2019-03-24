@@ -1,0 +1,13 @@
+{
+  "id": "ldfsgycw7y_hackathon",
+  "data": {
+    "questions": [
+      "hackathon"
+    ],
+    "action": "text",
+    "answer": "Test: Display major cultural and technical activites",
+    "redirectFlow": "",
+    "redirectNode": "",
+    "enabled": true
+  }
+}

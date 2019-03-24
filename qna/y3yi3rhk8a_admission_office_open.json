@@ -1,0 +1,13 @@
+{
+  "id": "y3yi3rhk8a_admission_office_open",
+  "data": {
+    "questions": [
+      "admission office open"
+    ],
+    "action": "text",
+    "answer": "Test: admission timings",
+    "redirectFlow": "",
+    "redirectNode": "",
+    "enabled": true
+  }
+}

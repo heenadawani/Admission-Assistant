@@ -1,0 +1,14 @@
+{
+  "id": "c883ivsr6c_bread",
+  "data": {
+    "questions": [
+      "bread"
+    ],
+    "answer": "I am not quite sure what you are asking about. Try reframing your question or splitting it into individual factual questions.",
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "category": "",
+    "enabled": true
+  }
+}

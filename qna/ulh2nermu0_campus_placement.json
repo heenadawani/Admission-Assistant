@@ -1,0 +1,13 @@
+{
+  "id": "ulh2nermu0_campus_placement",
+  "data": {
+    "questions": [
+      "campus placement"
+    ],
+    "action": "text",
+    "answer": "Test: Quote placement statistics",
+    "redirectFlow": "",
+    "redirectNode": "",
+    "enabled": true
+  }
+}

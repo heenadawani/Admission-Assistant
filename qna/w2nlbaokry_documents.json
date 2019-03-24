@@ -1,0 +1,13 @@
+{
+  "id": "w2nlbaokry_documents",
+  "data": {
+    "questions": [
+      "Documents"
+    ],
+    "action": "text",
+    "answer": "Test: Display lit of documents along with number of photocopies",
+    "redirectFlow": "",
+    "redirectNode": "",
+    "enabled": true
+  }
+}

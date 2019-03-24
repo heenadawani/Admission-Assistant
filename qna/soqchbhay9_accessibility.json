@@ -1,0 +1,13 @@
+{
+  "id": "soqchbhay9_accessibility",
+  "data": {
+    "questions": [
+      "accessibility"
+    ],
+    "action": "text",
+    "answer": "Test: display address and means to reach(nearest station etc.)",
+    "redirectFlow": "",
+    "redirectNode": "",
+    "enabled": true
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "z6gvkkp61c_self_attestation",
+  "data": {
+    "questions": [
+      "Self attestation"
+    ],
+    "action": "text",
+    "answer": "Test: Attestation",
+    "redirectFlow": "",
+    "redirectNode": "",
+    "enabled": true
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pphlim9awd_admission_timeline",
+  "data": {
+    "questions": [
+      "admission Timeline"
+    ],
+    "action": "text",
+    "answer": "Test: Show Admission timeline",
+    "redirectFlow": "",
+    "redirectNode": "",
+    "enabled": true
+  }
+}

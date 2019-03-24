@@ -1,0 +1,13 @@
+{
+  "id": "1ilwikmq45_procedure_of_admission",
+  "data": {
+    "questions": [
+      "Procedure of admission"
+    ],
+    "action": "text",
+    "answer": "\nSale of forms\nPre admission online enrollment forms\nSubmission of admission form along with printed copy of pre admission forms(mandatory)\nFirst merit list\nVerification of documents and payment of fees\nSecond merit list-Verification of documents and payment of fees\nThird and final merit list\nVerification of documents and payment of fees.\n",
+    "redirectFlow": "",
+    "redirectNode": "",
+    "enabled": true
+  }
+}

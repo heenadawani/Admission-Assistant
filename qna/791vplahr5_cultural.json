@@ -1,0 +1,13 @@
+{
+  "id": "791vplahr5_cultural",
+  "data": {
+    "questions": [
+      "cultural "
+    ],
+    "action": "text",
+    "answer": "Test: Display major cultural and technical activites",
+    "redirectFlow": "",
+    "redirectNode": "",
+    "enabled": true
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pnznquyrgh_timings_of_college",
+  "data": {
+    "questions": [
+      "Timings of college"
+    ],
+    "action": "text",
+    "answer": "Morning Shift - 8:30am to 2:45pm\r\nAfternoon Shift (2nd shift) - 10:30am to 5pm\r\n\r\n",
+    "redirectFlow": "",
+    "redirectNode": "",
+    "enabled": true
+  }
+}

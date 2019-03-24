@@ -1,0 +1,13 @@
+{
+  "id": "0e6rljwhjg_fee_structure",
+  "data": {
+    "questions": [
+      "fee structure"
+    ],
+    "action": "text",
+    "answer": "Test: Display fee structure",
+    "redirectFlow": "",
+    "redirectNode": "",
+    "enabled": true
+  }
+}

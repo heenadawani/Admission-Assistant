@@ -1,0 +1,13 @@
+{
+  "id": "0xdz44799g_co_curricular",
+  "data": {
+    "questions": [
+      "co-curricular"
+    ],
+    "action": "text",
+    "answer": "Test: Display major cultural and technical activites",
+    "redirectFlow": "",
+    "redirectNode": "",
+    "enabled": true
+  }
+}

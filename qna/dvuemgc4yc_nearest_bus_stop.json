@@ -1,0 +1,13 @@
+{
+  "id": "dvuemgc4yc_nearest_bus_stop",
+  "data": {
+    "questions": [
+      "nearest bus stop"
+    ],
+    "action": "text",
+    "answer": "Test: display address and means to reach(nearest station etc.)",
+    "redirectFlow": "",
+    "redirectNode": "",
+    "enabled": true
+  }
+}

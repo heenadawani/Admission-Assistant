@@ -1,0 +1,13 @@
+{
+  "id": "2ikfegi3fe_change_in_branch",
+  "data": {
+    "questions": [
+      "Change in branch"
+    ],
+    "action": "text",
+    "answer": "Yes change in branch is allowed after First Year subject to vacancy.\nThe seats are alloted purely based on the merit list.",
+    "redirectFlow": "",
+    "redirectNode": "",
+    "enabled": true
+  }
+}

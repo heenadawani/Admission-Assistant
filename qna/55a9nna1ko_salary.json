@@ -1,0 +1,13 @@
+{
+  "id": "55a9nna1ko_salary",
+  "data": {
+    "questions": [
+      "salary"
+    ],
+    "action": "text",
+    "answer": "Test: Quote placement statistics",
+    "redirectFlow": "",
+    "redirectNode": "",
+    "enabled": true
+  }
+}

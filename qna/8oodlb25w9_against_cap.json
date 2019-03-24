@@ -1,0 +1,13 @@
+{
+  "id": "8oodlb25w9_against_cap",
+  "data": {
+    "questions": [
+      "Against CAP"
+    ],
+    "action": "text",
+    "answer": "Test: ACAP",
+    "redirectFlow": "",
+    "redirectNode": "",
+    "enabled": true
+  }
+}

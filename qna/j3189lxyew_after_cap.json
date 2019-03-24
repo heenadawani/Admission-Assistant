@@ -1,0 +1,14 @@
+{
+  "id": "j3189lxyew_after_cap",
+  "data": {
+    "questions": [
+      "After CAP"
+    ],
+    "answer": "Test: ACAP",
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "category": "",
+    "enabled": true
+  }
+}

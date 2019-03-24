@@ -1,0 +1,13 @@
+{
+  "id": "zrlm98f40y_annual_fees",
+  "data": {
+    "questions": [
+      "annual fees"
+    ],
+    "action": "text",
+    "answer": "Test: Display fee structure",
+    "redirectFlow": "",
+    "redirectNode": "",
+    "enabled": true
+  }
+}

@@ -1,8 +1,0 @@
-salary
-packages
-job
-companies
-company
-campus placement
-placement statistics
-Placement

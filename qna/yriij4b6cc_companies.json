@@ -1,0 +1,13 @@
+{
+  "id": "yriij4b6cc_companies",
+  "data": {
+    "questions": [
+      "companies"
+    ],
+    "action": "text",
+    "answer": "Test: Quote placement statistics",
+    "redirectFlow": "",
+    "redirectNode": "",
+    "enabled": true
+  }
+}

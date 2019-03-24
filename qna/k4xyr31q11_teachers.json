@@ -1,0 +1,13 @@
+{
+  "id": "k4xyr31q11_teachers",
+  "data": {
+    "questions": [
+      "teaching faculty"
+    ],
+    "action": "text",
+    "answer": "Test: faculty",
+    "redirectFlow": "",
+    "redirectNode": "",
+    "enabled": true
+  }
+}

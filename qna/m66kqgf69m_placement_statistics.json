@@ -1,0 +1,13 @@
+{
+  "id": "m66kqgf69m_placement_statistics",
+  "data": {
+    "questions": [
+      "placement statistics"
+    ],
+    "action": "text",
+    "answer": "Test: Quote placement statistics",
+    "redirectFlow": "",
+    "redirectNode": "",
+    "enabled": true
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "abpb57pvs2_technical",
+  "data": {
+    "questions": [
+      "technical "
+    ],
+    "action": "text",
+    "answer": "Test: Display major cultural and technical activites",
+    "redirectFlow": "",
+    "redirectNode": "",
+    "enabled": true
+  }
+}

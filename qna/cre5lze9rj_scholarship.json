@@ -1,0 +1,13 @@
+{
+  "id": "cre5lze9rj_scholarship",
+  "data": {
+    "questions": [
+      "Scholarship"
+    ],
+    "action": "text",
+    "answer": "Test: Display available scholarship details",
+    "redirectFlow": "",
+    "redirectNode": "",
+    "enabled": true
+  }
+}

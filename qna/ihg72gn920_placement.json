@@ -1,0 +1,13 @@
+{
+  "id": "ihg72gn920_placement",
+  "data": {
+    "questions": [
+      "Placement "
+    ],
+    "action": "text",
+    "answer": "Test: Quote placement statistics",
+    "redirectFlow": "",
+    "redirectNode": "",
+    "enabled": true
+  }
+}

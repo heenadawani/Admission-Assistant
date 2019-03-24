@@ -1,0 +1,13 @@
+{
+  "id": "1s4bbppj7y_where_is_vesit",
+  "data": {
+    "questions": [
+      "where is vesit?"
+    ],
+    "action": "text",
+    "answer": "Test: display address and means to reach(nearest station etc.)",
+    "redirectFlow": "",
+    "redirectNode": "",
+    "enabled": true
+  }
+}

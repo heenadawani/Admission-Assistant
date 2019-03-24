@@ -1,0 +1,13 @@
+{
+  "id": "rlq8gl62rz_concession",
+  "data": {
+    "questions": [
+      "Concession"
+    ],
+    "action": "text",
+    "answer": "Test: Display available scholarship details",
+    "redirectFlow": "",
+    "redirectNode": "",
+    "enabled": true
+  }
+}
