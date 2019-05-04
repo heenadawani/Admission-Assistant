@@ -1,2 +1,2 @@
 # Admission-Assistant
-Factual bot for VESIT's Admission
+Factual bot for VESIT's Admission using Botpress

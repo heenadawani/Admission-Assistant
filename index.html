@@ -1,4 +1,16 @@
-body
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  	<title>Admission Assistant</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <meta name="description" content="" />
+    <meta name="keywords" content="" />
+    <link rel="icon" type="image/png" href="/assets/ui-studio/public/img/favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="/assets/ui-studio/public/img/favicon-16x16.png" sizes="16x16" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <style type="text/css">
+    	body
 {
 	background-color: lightgrey;
 }
@@ -10,18 +22,18 @@ body
 	padding: 15px;
 	/*position: fixed;*/
 }
-.header .logo img
+.header .ves img
 {
-	width: 50px;
+	width: 100px;
 	height: 70px;
 	display: inline-block;
 	/*background-color: green;*/
-	margin-top: -15px;
+	margin-top: 15px;
 	margin-right: 50px;
 	margin-left: 25px;
 	float: left;
 }
-.header .logo img:hover
+.header .ves img:hover
 {
 	opacity: 0.8;
 	transition: 0.3s;
@@ -30,6 +42,7 @@ body
 {
 	list-style-type: none;
 	margin-top: 10px;
+	margin-left: 120px;
 }
 .header li
 {
@@ -75,7 +88,7 @@ body
 
 .back
 {
-	background-image: url("vespic2.jpg");
+	background-image: url("vesit.jpg");
 	width: 100%;
 	height: 85vh;
 	/*overflow: hidden;*/
@@ -149,93 +162,28 @@ body
 	opacity: 1;
 	border: none;
 }
+</style>
+    <script src="https://stark-refuge-78857.herokuapp.com/assets/modules/channel-web/inject.js"></script>
+  </head>
 
-/*.feat
-{
-	background-color: #006969;
-	overflow: auto;
-	margin-top: 30px;
-	height: 200vh;
-	transition: 0.3s;
-}
-.feat a
-{
-	transition: 0.9s;
-}
-
-.feat .attendance
-{
-	width: 100%;
-	height: 30%;
-	background-color: lightgrey;
-	border-top-style: solid;
-	border-width: 0.5px;
-	border-color: #a6a6a6;
-	/*-webkit-box-shadow: inset 10px 10px 15px 15px #000;*/
-}
-.feat .attendance .text1
-{
-	background-color: #a6a6a6;
-	width: 60%;
-	float: right;
-	height: 100%;
-	transition: 0.3s;
-}
-.feat .attendance .text1:hover
-{
-	background-color: #a6a6a6;
-	width: 60%;
-	float: right;
-	height: 100%;
-	box-shadow: inset 5px 5px 10px 10px grey;
-	transition: 0.3s;
-}
-.feat .attendance .text1 .attHead
-{
-	text-align: right;
-	font-family: Verdana;
-	font-size: 60px;
-	margin-right: 20%;
-	margin-top: 10%;
-	color: #8b5b85;
-}
-
-.feat .attendance .text1 .attText
-{
-	text-align: right;
-	font-family: Verdana;
-	font-size: 30px;
-	margin-right: 20%;
-	color: #8b5b85;
-}
-.feat .attendance .img1
-{
-	width: 40%;
-	height: 100%;
-	float: left;
-	background-color: #a6a6a6;
-	
-}
-.feat .attendance .img1:hover
-{
-	/*box-shadow: inset 5px 5px 5px 15px grey;*//*
-}
-.feat .attendance .img1 img
-{
-	width: 60%;
-	height: 60%;
-	position: relative;
-	top: 35%;
-	left: 30%;
-	transition: 0.3s;
-}
-.feat .attendance .img1 img:hover
-{
-	width: 70%;
-	height: 70%;
-	position: relative;
-	top: 10%;
-	left: 15%;
-	transition: 0.5s;
-	
-}*/
+  <body>
+    <div id="app"></div>
+    <script src="env.js"></script>
+  <script type="text/javascript" src="/assets/ui-studio/public/js/commons.2a380283385ee23e85a0.js?011fff110ad21493bba8"></script><script type="text/javascript" src="/assets/ui-studio/public/js/web.ab87037a3b244f7ed62a.js?011fff110ad21493bba8"></script><script>
+  window.botpressWebChat.init({ host: 'https://stark-refuge-78857.herokuapp.com', botId: 'admissionassistant',botName: 'AdmissionAssistant' })
+</script>
+<div class="header">
+	<div class="ves">
+		<a href="#"><img src="ves.png"></a>
+	</div>
+	<ul>
+		<h1>Vivekanand Education Society's Institute of Technology</h1>
+		
+		<li><a href="#">About Us</a></li>
+		<li><a href="#">Timeline</a></li>
+		<li><a href="#">FAQ</a></li>
+	</ul>
+</div>
+<div class="back"></div>>
+</body>
+</html>
